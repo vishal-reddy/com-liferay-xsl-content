@@ -19,6 +19,8 @@ package com.liferay.xsl.content.web.constants;
  */
 public class XSLContentPortletKeys {
 
+    // My super awesome fix
+
 	public static final String XSL_CONTENT =
 		"com_liferay_xsl_content_web_portlet_XSLContentPortlet";
 
