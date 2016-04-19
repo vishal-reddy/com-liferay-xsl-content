@@ -22,6 +22,7 @@ import org.osgi.service.component.annotations.Component;
 /**
  * @author Juergen Kappler
  */
+// Here is a super awesome fix
 @Component
 public class XSLContentPortletInstanceConfigurationBeanDeclaration
 	implements ConfigurationBeanDeclaration {
