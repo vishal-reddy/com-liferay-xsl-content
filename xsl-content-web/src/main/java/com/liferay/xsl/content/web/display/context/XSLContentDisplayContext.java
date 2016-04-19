@@ -30,6 +30,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * @author Juergen Kappler
  */
+// Another valid fix
 public class XSLContentDisplayContext {
 
 	public XSLContentDisplayContext(
